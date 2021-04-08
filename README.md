@@ -1,1 +1,3 @@
-# TinDog_Website---Front-end
+# TinDog Website (Front-End)
+
+Skills used --> HTML, CSS, BootStrap

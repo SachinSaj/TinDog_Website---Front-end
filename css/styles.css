@@ -1,0 +1,100 @@
+
+h3{
+  color: #0f4c75;
+  font-weight: bold;
+}
+
+h2{
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 20px;
+  margin: 0 250px 0;
+}
+
+#footer{
+  text-align: center;
+}
+
+#cta
+{
+  text-align: center;
+}
+
+.container-fluid{
+  background-color: #00bbf0;
+  padding: 10px 60px 20px;
+}
+
+.row{
+  padding: 20px 40px 20px;
+}
+
+.navbar{
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.main-title{
+  color:white;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-top: 160px;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+.title-image{
+  width: 250px;
+  height: 450px;
+  align-items: center;
+  transform: rotate(25deg);
+  margin: 40px 150px 0;
+}
+
+.container{
+  text-align: center;;
+  margin: 60px 10px 60px;
+  padding: 80px 40px 80px;
+}
+
+.btn{
+  margin-top: 20px;
+}
+
+.dark-btn{
+  margin: 20px 20px 0;
+}
+
+.news-img{
+  text-align: center;
+  margin: 0 50px 0;
+  padding-top: 50px;
+  width: 15%;
+  padding-bottom: 50px;
+}
+
+.dog-img{
+  margin: 50px 600px 10px;
+  width: 10%;
+  border-radius: 100%;
+}
+
+.dog-name{
+  padding-top: 10px;
+  margin: 60px 590px 0;
+}
+
+.carouselExampleIndicators{
+  padding-top: 500px;
+}
+
+.soimg{
+  margin-bottom: 10px;
+}
